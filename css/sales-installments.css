@@ -1,0 +1,154 @@
+
+div.center {
+    text-align: center;
+}
+
+.color {
+    border: solid #459ED8 1px;
+    background-color: #E5E5E5;
+    color: #1C5E3B;
+    border: none;
+}
+
+.color2 {
+    border: solid #459ED8 1px;
+    background-color: white;
+    color: #459ED8;
+}
+
+.color3 {
+    border: solid #FF0000 1px;
+    background-color: white;
+    color: #FF0000;
+}
+
+.afterr::after {
+    content: " ";
+    margin-bottom: 2px;
+    width: 1px;
+    height: 98%;
+    position: absolute;
+    background-color: black;
+    z-index: 12;
+}
+
+table tbody tr:hover {
+    background-color: #EBFAED;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.theadbackGround {
+    background-color: #459ED8;
+}
+
+table tbody {
+    border: solid #ABABAB 1px;
+    color: #747474;
+}
+
+.fonts {
+    font-family: Poppins;
+}
+
+.tbodyborder {
+    border: none;
+    height: 100%;
+}
+
+.marginpaggination {
+    margin-top: 2% !important;
+}
+
+.line {
+    border-bottom: 1px solid #E5E5E5;
+    width: 100%;
+}
+
+.btn-primary:hover {
+    background-color: #1C5E3B;
+}
+
+.margin2 {
+    margin-right: 4%;
+}
+
+ .btn {
+   
+    background-color: #1C5E3B;
+    width: 288px;
+    position: absolute;
+    right: 0;
+    top: 20px;
+    height: 48px;
+    box-shadow: none;
+    color: white;
+}
+.modalBtn{
+    background-color: #1C5E3B;
+    border: 0;
+  
+    border-radius: 5px;
+}
+
+.paddingh5 {
+    padding-top: 36px;
+}
+
+.color4 {
+    color: red;
+    font-size: 22px;
+    margin-right: 1%;
+    margin-bottom: 4%;
+    margin-top: -5%;
+    cursor: pointer;
+}
+
+.labels {
+    width: 520px;
+    height: 60px;
+    border: solid black 1px;
+}
+
+.margin1 {
+    margin-left: -1%;
+    width: 600px !important;
+    height: 48px;
+    margin-top: 60px;
+    left: 660px;
+}
+
+.headerborder {
+    border-bottom: solid 1px #ABABAB;
+}
+.btnModal{
+    position: absolute;
+    right: 0;
+    top: 10px;
+}
+.mt-5{
+    margin-top: 5rem !important;
+}
+
+
+td:first-child{
+    text-align: initial;
+    padding-left: 36px !important;
+  }
+  
+  td:last-child {
+    text-align: end;
+    padding-right: 36px !important;
+    
+  }
+  th:first-child{
+    text-align: initial;
+    padding-left: 36px;
+  }
+  th:last-child {
+    text-align: end;
+    padding-right: 80px !important;
+    
+  }

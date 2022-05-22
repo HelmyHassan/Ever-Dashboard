@@ -1,0 +1,165 @@
+div.center {
+    text-align: center;
+}
+
+.color {
+    border: solid #459ED8 1px;
+    background-color: #E5E5E5;
+    color: #1C5E3B;
+    border: none;
+}
+
+.color2 {
+    border: solid #459ED8 1px;
+    background-color: white;
+    color: #459ED8;
+}
+
+.color3 {
+    border: solid #FF0000 1px;
+    background-color: white;
+    color: #FF0000;
+}
+
+.afterr::after {
+    content: " ";
+    margin-bottom: 2px;
+    width: 1px;
+    height: 95%;
+    position: absolute;
+    background-color: black;
+    z-index: 12;
+}
+
+.btn:not(:disabled):not(.disabled) {
+    border: none;
+}
+
+.btn {
+    margin-top: -1%;
+    margin-left: 83%;
+    background-color: #1C5E3B;
+    width: 288px;
+    right: 0;
+    top: 20px;
+    height: 48px;
+    box-shadow: none;
+    color: white;
+}
+
+.margin2 {
+    margin-right: 4%;
+}
+
+.margin1 {
+    margin-left: -1%;
+    width: 600px !important;
+    height: 48px;
+    margin-top: 60px;
+    left: 660px;
+}
+
+.btn-primary:hover {
+    background-color: #1C5E3B;
+}
+
+.labels {
+    width: 520px;
+    height: 60px;
+    border: solid black 1px;
+}
+
+.close {
+    font-size: 22px;
+    color: red;
+    margin-right: 2%;
+    margin-top: -2%;
+}
+
+.fonts {
+    font-family: Poppins;
+}
+
+.height1 {
+    height: 60px;
+}
+
+table tbody tr:hover {
+    background-color: #EBFAED;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.theadbackGround {
+    background-color: #459ED8;
+}
+
+table tbody {
+    border: solid #ABABAB 1px;
+    color: #747474;
+}
+
+.margin3 {
+    margin-left: -58px;
+}
+
+.margin4 {
+    margin-left: -137px;
+}
+
+.margin5 {
+    margin-left: -204px;
+}
+
+.tbodyborder {
+    border: none;
+}
+
+.marginpaggination {
+    margin-top: 2% !important;
+}
+
+.line {
+    border-bottom: 1px solid #E5E5E5;
+    width: 100%;
+}
+
+.paddingh5 {
+    padding-top: 36px;
+}
+
+.headerborder {
+    border-bottom: solid 1px #ABABAB;
+}
+
+#disabledSelect {
+    height: 60px;
+    border: solid black 1px;
+    box-shadow: none;
+    color: #ABABAB;
+    width: 100%;
+    border-radius: 5px;
+}
+
+
+td:first-child{
+    text-align: initial;
+    padding-left: 36px !important;
+  }
+  
+  td:last-child {
+    text-align: end;
+    padding-right: 36px !important;
+    
+  }
+  th:first-child{
+    text-align: initial;
+    padding-left: 36px;
+  }
+  th:last-child {
+    text-align: end;
+    padding-right: 80px !important;
+    
+  }

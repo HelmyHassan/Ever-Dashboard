@@ -1,0 +1,39 @@
+.stores{
+    position: relative;
+    display: grid;
+    gap: 24px;
+    transition: all .3s ease-in-out;
+    grid-template-columns: repeat(4,1fr);
+    overflow: scroll;
+    overflow-x: hidden;
+    overflow-y:auto;
+   
+}
+
+.store{
+  
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+
+}
+.store .card:hover{
+    background-color:   #EBFAED;
+}
+
+.store table tbody tr td{
+  text-align: right;
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 24px;
+}
+.store table tbody tr th{
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 24px;
+}
+
+

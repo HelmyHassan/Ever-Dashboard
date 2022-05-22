@@ -1,0 +1,178 @@
+
+.body {
+    font-family: Poppins;
+    
+}
+
+.divitle {
+    width: 14%;
+    height: 100%;
+    border: solid 1px #ABABAB;
+}
+
+.move {
+    margin-left: 6%;
+    text-align: start;
+    box-shadow: none!important;
+}
+
+.divContent {
+    width: 85%;
+    height: 100%;
+    border: solid 1px #ABABAB;
+}
+
+.paragraph1 {
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.btnLang {
+    background: #E5E5E5;
+    border: none;
+    box-shadow: none !important;
+    color: #1C5E3B;
+    border-radius: 5px;
+    width: 120px;
+    font-family: Poppins;
+    font-weight: bold;
+}
+
+.btnLang:hover {
+    color: #1C5E3B;
+}
+
+.divShow {
+    height: 240px;
+    width: 99%;
+    left: 466px;
+    top: 499px;
+    border-radius: 5px;
+    background: #1A2E52;
+    margin-top: 1%;
+}
+
+.colorr {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+}
+
+.me-3 {
+    margin-right: 12!important;
+}
+
+.btn1:focus {
+    outline: 0;
+}
+
+.btn2:focus {
+    outline: 0;
+}
+
+.btn3:focus {
+    outline: 0;
+}
+
+.btn4:focus {
+    outline: 0;
+}
+
+.btn5:focus {
+    outline: 0;
+}
+
+.headerborder {
+    border-bottom: solid 1px #ABABAB;
+}
+
+.fonts {
+    font-family: Poppins;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.margin1 {
+    margin-left: -52px;
+}
+
+.margin2 {
+    margin-left: 14.5%;
+}
+
+.w-95 {
+    width: 95%;
+}
+
+.small-div {
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-sizing: border-box;
+    box-shadow: 1px 3px 3px rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
+    width: 288px;
+    height: 892px;
+    background-color: #fff !important;
+}
+
+.btnStyle {
+    margin-left: 4% !important;
+    border: none;
+    margin-right: 11px;
+}
+
+.big-div {
+ 
+    width: 1442px;
+    height: 892px;
+    margin-left: 1%;
+    background-color: #fff !important;
+
+    border: 1px solid rgba(0, 0, 0, 0.2);
+box-sizing: border-box;
+box-shadow: 1px 3px 3px rgba(0, 0, 0, 0.15);
+border-radius: 5px;
+}
+
+.c {
+    background: #E5E5E5;
+    border: none;
+    box-shadow: none !important;
+    color: #1C5E3B;
+    border-radius: 5px;
+    width: 120px;
+}
+
+.copy {
+    margin-left: 91%;
+    margin-top: -4.3%;
+}
+
+.DIVshowStyle {
+    Width: 320px;
+    margin-top: 1%;
+}
+
+.Margin-Left {
+    margin-left: 98px;
+}
+
+.colo {
+    color: red;
+}
+
+.colo1 {
+    color: #dc8a49;
+}
+
+.ident {
+    margin-left: 22%;
+}

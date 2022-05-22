@@ -1,0 +1,85 @@
+#reservationModal1 .modal-body form button{
+    width: 600px !important;
+    height: 48px;
+    margin-top: 60px;
+    box-shadow: none;
+    background: #1c5c3a;
+  }
+  
+  #reservationModal2 .modal-body button{
+    width: 600px !important;
+    height: 48px;
+    margin-top: 60px;
+    box-shadow: none;
+    background: #1c5c3a;
+  }
+  .sectionTitle{
+    margin-top: 18px;
+    font-family: Poppins;
+    font-weight: bold;
+    color: #000;
+  }
+
+  .btnModal{
+      position: absolute;
+    background-color: #1C5E3B;
+    width: 288px;
+    right: 0;
+    top: 10px;
+    height: 48px;
+    box-shadow: none;
+  }
+
+  .btnModal span{
+    color: #fff;
+  }
+
+  .btnModal i {
+      position: absolute;
+      left: 10.5%;
+    top: 32.5%;
+  }
+
+  .cycleTable thead{
+    background-color: #459ED8 ;
+  }
+  .close {
+    font-size: 22px;
+    color: red;
+    margin-right: 2%;
+    margin-top: -5.2%;
+  }
+
+
+
+  td:first-child{
+    text-align: initial;
+    padding-left: 36px !important;
+  }
+  
+  td:last-child {
+    text-align: end;
+    padding-right: 36px !important;
+    
+  }
+  th:first-child{
+    text-align: initial;
+    padding-left: 36px;
+  }
+  th:last-child {
+    text-align: end;
+    padding-right: 50px !important;
+    
+  }
+
+
+
+
+
+
+
+
+
+
+
+  
