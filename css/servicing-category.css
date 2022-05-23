@@ -228,3 +228,26 @@ color: #fff;
   .modal .modal-body form input{
     width: 570px !important;
   }
+
+  .equipements::-webkit-scrollbar {
+    width: 10px !important;
+    
+    /* background-color: transparent !important; */
+    /* display: none; */
+  }
+  
+  /* Track */
+  .equipements::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+   
+  /* Handle */
+  .equipements::-webkit-scrollbar-thumb {
+    background: #1c5c3a; 
+    border-radius: 5px;
+  }
+  
+  /* Handle on hover */
+  .equipements::-webkit-scrollbar-thumb:hover {
+    background: lightgreen; 
+  }
